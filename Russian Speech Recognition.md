@@ -60,3 +60,16 @@ Desktop
 This dataset was recorded in a quiet office/home environment, with a total of 200 speakers participating, including 100 males and 100 females. All speakers involved in the recording were professionally selected to ensure standard pronunciation and clear articulation. The recorded text covers daily conversations, news, and other information.
 ## URL
 https://dataoceanai.com/datasets/asr/russian-speech-recognition-corpus-desktop-4/
+
+<br>
+
+## ID
+King-ASR-248
+## Duration
+8.3 hours
+## Recording Device
+Desktop
+## Description
+This dataset was recorded in a quiet office environment, with a total of 30 speakers participating, including 16 males and 14 females. All speakers involved in the recording were professionally selected to ensure standard pronunciation and clear articulation. The recorded text covers daily conversations, fairy tales, news, and other information.
+## URL
+https://dataoceanai.com/datasets/asr/russian-speech-kids-recognition-corpus-desktop/

@@ -9,6 +9,8 @@ This dataset was recorded in a quiet office environment, with 850 speakers parti
 ## URL
 https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-desktop-10/
 
+<br>
+
 ## ID
 King-ASR-023
 ## Duration
@@ -20,6 +22,8 @@ This dataset was recorded in a quiet office environment, with 649 speakers parti
 ## URL
 https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-telephone-9/
 
+<br>
+
 ## ID
 King-ASR-027
 ## Duration
@@ -30,6 +34,8 @@ Telephone
 This dataset was recorded in a quiet office environment, with 648 speakers participating, including 339 males and 309 females. All speakers involved in the recording were professionally selected to ensure standard pronunciation and clear articulation. The recorded text covers information such as letters and announcements.
 ## URL
 https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-telephone-14/
+
+<br>
 
 ## ID
 King-ASR-042

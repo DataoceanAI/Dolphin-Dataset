@@ -100,3 +100,28 @@ This dataset was recorded in a vehicular noise environment, with the participati
 ## URL
 https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-incar-3/
 
+<br>
+
+## ID
+King-ASR-166
+## Duration
+1059.45 hours
+## Recording Device
+pad
+## Description
+This dataset was recorded in quiet office and home environments, with the participation of 2,511 speakers, including 1,293 males and 1,218 females. All speakers involved in the recording were carefully selected by professionals to ensure standardized pronunciation and clear articulation. The recorded texts cover a range of information, including news updates, everyday conversations, and text messages.
+## URL
+https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-pad/
+
+<br>
+
+## ID
+King-ASR-169
+## Duration
+828.8 hours
+## Recording Device
+Desktop
+## Description
+This dataset was recorded in both quiet and noisy environments, with the participation of 1,000 speakers, consisting of 500 males and 500 females. All speakers involved in the recordings were professionally selected to ensure standardized pronunciation and clear enunciation. The recorded texts encompass information such as news updates, everyday conversations, and text messages.
+## URL
+https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-desktop-26/

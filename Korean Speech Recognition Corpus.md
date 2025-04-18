@@ -60,3 +60,16 @@ Desktop
 This dataset was recorded in a quiet office environment, with 40 speakers participating, evenly divided between males and females. All speakers involved in the recording were professionally selected to ensure standard pronunciation and clear articulation. The recorded text consists of sentences from daily conversations and news.
 ## URL
 https://dataoceanai.com/datasets/asr/korean-speech-recognition-corpus-desktop-5/
+
+<br>
+
+## ID
+King-ASR-064
+## Duration
+177.3 hours
+## Recording Device
+Mobile
+## Description
+This dataset was recorded in quiet office and home environments, with the involvement of 500 speakers, including 246 males and 254 females. All participants in the recordings were professionally selected to ensure standardized pronunciation and clear articulation. The recorded texts encompass information such as news updates.
+## URL
+https://dataoceanai.com/datasets/asr/korean-speech-recognition-corpus-mobile-3/

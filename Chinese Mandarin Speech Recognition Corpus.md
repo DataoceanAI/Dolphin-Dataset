@@ -61,3 +61,18 @@ This dataset was recorded in both quiet and noisy environments, with 400 speaker
 ## URL
 https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-mobile-3/
 
+<br>
+
+## ID
+King-ASR-059
+## Duration
+610 hours
+## Recording Device
+Mobile
+## Description
+This dataset was recorded in quiet office and home environments, with 1,387 speakers participating, including 980 males and 407 females. All speakers involved in the recording were carefully selected by professionals to ensure standardized pronunciation and clear enunciation. The recorded texts cover information such as news, daily conversations, and text messages.
+## URL
+https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-mobile-4/
+
+
+

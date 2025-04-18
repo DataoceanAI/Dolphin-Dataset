@@ -125,3 +125,29 @@ Desktop
 This dataset was recorded in both quiet and noisy environments, with the participation of 1,000 speakers, consisting of 500 males and 500 females. All speakers involved in the recordings were professionally selected to ensure standardized pronunciation and clear enunciation. The recorded texts encompass information such as news updates, everyday conversations, and text messages.
 ## URL
 https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-desktop-26/
+
+<br>
+
+## ID
+King-ASR-188
+## Duration
+95.5 hours
+## Recording Device
+Mobile
+## Description
+This dataset was recorded in both quiet and noisy environments, with a total of 300 speakers participating, including 150 males and 150 females. All speakers involved in the recording were professionally selected to ensure standard pronunciation and clear articulation. The recorded text covers news, daily conversations, Twitter, and other information.
+## URL
+https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-mobile-8/
+
+<br>
+
+## ID
+King-ASR-214
+## Duration
+443.5 hours
+## Recording Device
+Mobile
+## Description
+This dataset was recorded in both quiet and noisy environments, with a total of 1000 speakers participating, including 501 males and 499 females. All speakers involved in the recording were professionally selected to ensure standard pronunciation and clear articulation. The recorded text covers news, daily conversations, SMS messages, and other information.
+## URL
+https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-mobile-9/

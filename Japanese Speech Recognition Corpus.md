@@ -46,4 +46,17 @@ Desktop
 ## Description
 This dataset was recorded in a quiet office environment, with 50 speakers participating, including 27 males and 23 females. All speakers involved in the recordings were professionally selected to ensure standardized pronunciation and clear enunciation. The recorded texts encompass information such as numbers, dates, times, and personal names.
 ## URL
-[https://dataoceanai.com/datasets/asr/japanese-speech-recognition-corpus-mobile/](https://dataoceanai.com/datasets/asr/japanese-speech-recognition-corpus-desktop-6/)
+https://dataoceanai.com/datasets/asr/japanese-speech-recognition-corpus-desktop-6/
+
+<br>
+
+## ID
+King-ASR-112
+## Duration
+31.99 hours
+## Recording Device
+Mobile
+## Description
+This dataset was recorded in a vehicular noise environment, with 140 speakers participating, including 65 males and 75 females. All speakers who took part in the recording were professionally selected to ensure standardized pronunciation and clear enunciation. The recorded texts cover information such as numbers, dates, times, and personal names.
+## URL
+https://dataoceanai.com/datasets/asr/japanese-speech-recognition-corpus-mobile-2/

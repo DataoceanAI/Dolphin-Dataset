@@ -48,3 +48,15 @@ This dataset was recorded in both quiet and noisy environments, with the partici
 ## URL
 https://dataoceanai.com/datasets/asr/russian-speech-recognition-corpus-mobile/
 
+<br>
+
+## ID
+King-ASR-183
+## Duration
+517.8 hours
+## Recording Device
+Desktop
+## Description
+This dataset was recorded in a quiet office/home environment, with a total of 200 speakers participating, including 100 males and 100 females. All speakers involved in the recording were professionally selected to ensure standard pronunciation and clear articulation. The recorded text covers daily conversations, news, and other information.
+## URL
+https://dataoceanai.com/datasets/asr/russian-speech-recognition-corpus-desktop-4/

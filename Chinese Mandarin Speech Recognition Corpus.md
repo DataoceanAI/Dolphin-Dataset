@@ -87,5 +87,16 @@ This dataset was recorded in both quiet and noisy environments, with the partici
 ## URL
 https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-mobile-7/
 
+<br>
 
+## ID
+King-ASR-120
+## Duration
+451 hours
+## Recording Environment
+Incar
+## Description
+This dataset was recorded in a vehicular noise environment, with the participation of 300 speakers, including 151 males and 149 females. All speakers involved in the recording were carefully selected by professionals to ensure standardized pronunciation and clear enunciation. The recorded texts cover information such as numbers, dates, times, and personal names.
+## URL
+https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-incar-3/
 
